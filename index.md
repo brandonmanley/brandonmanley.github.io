@@ -1,3 +1,3 @@
-# brandonmanley.github.io
+# Brandon Manley
 
 Welcome to my website. 
