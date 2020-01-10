@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<html>
+
+   <head>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta charset="utf-8">
+
+      <title>Nav Container with JSROOT drawings</title>
+
+      <script type="text/javascript" src="../../scripts/JSRootCore.js"></script>
+
+      <!-- Application launch configuration -->
+      <script type="text/javascript">
+
+      JSROOT.openui5libs = "sap.ui.core, sap.m";
+
+      JSROOT.AssertPrerequisites('openui5', function() {
+
+         sap.ui.loader.config({
+            paths: {
+               "NavExample": "./"
+            }
+         });
+
+         sap.ui.require(["sap/ui/core/ComponentContainer", "sap/m/App", "sap/m/Page" ],
+
+            function(ComponentContainer, mApp, mPage) {
+
+               new mApp ({
+                  pages: [
+                     new mPage({
+                        title: "Nav Container",
+                        enableScrolling: true,
+                        content: [ new ComponentContainer({
+                           name: "NavExample"
+                        })]
+                    })
+                 ]
+               }).placeAt("content");
+
+           }); // sap.ui.require
+
+      }); // JSROOT.AssertPrerequisites
+
+      </script>
+   </head>
+
+   <!-- UI Content -->
+   <body class="sapUiBody" id="content" role="application">
+   </body>
+
+</html>
