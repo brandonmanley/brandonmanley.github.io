@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://brandonmanley.github.io/brandonmanley.github.io//sitemap.xml
+Sitemap: https://brandonmanley.github.io/sitemap.xml
