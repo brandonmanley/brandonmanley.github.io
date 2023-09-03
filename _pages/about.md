@@ -1,6 +1,6 @@
 ---
-layout: bio
-title: bio
+layout: about
+title: about
 permalink: /
 subtitle: <a href='#'>PhD student at Ohio State University</a>
 
