@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hi, I’m Brandon Manley, and I'm a theoretical physicist. I smash subatomic particles together on paper. I'm a PhD student and I currently work with 
-<a href='https://physics.osu.edu/people/kovchegov.1'> Yuri Kovchegov </a>. On this site, you can see my published papers, research projects, and teaching experience.
+<a href='https://physics.osu.edu/people/kovchegov.1'> Yuri Kovchegov</a>. On this site, you can see my published papers, research projects, and teaching experience.
 
 My research currently involves the nucleon spin puzzle (how does the proton get its spin from all its quarks and gluons that make it up?) and helicity evolution (how do spin-dependent observables behave at large energy scales?). My research will help us understand what we should see from the <a href='https://www.bnl.gov/eic/'> Electron Ion Collider </a>. My past research interests include dark matter production at the Large Hadron Collider (with the 
-<a href='https://u.osu.edu/milliqan/'> MilliQan collaboration </a>), and <a href='https://home.cern/science/experiments/cms'> CMS </a> detector design.
+<a href='https://u.osu.edu/milliqan/'> MilliQan collaboration</a>), and <a href='https://home.cern/science/experiments/cms'> CMS</a> detector design.
