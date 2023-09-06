@@ -121,8 +121,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Small \(x\,\) Coffe Hour # blog_name will be displayed in your blog page
-blog_nav_title: Small \(x\,\) Coffe Hour # your blog must have a title for it to be displayed in the nav bar
+blog_name: Small \(x\) Coffee Hour # blog_name will be displayed in your blog page
+blog_nav_title: Small \(x\) Coffee Hour # your blog must have a title for it to be displayed in the nav bar
 blog_description: On this blog, each month, I review some recent results from the small-\(x\) community. 
 permalink: /blog/:year/:title/
 
