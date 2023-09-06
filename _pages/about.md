@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 Hi, I’m Brandon Manley, and I'm a theoretical physicist. I smash subatomic particles together on paper. I'm a PhD student and I currently work with 
-<a href='https://physics.osu.edu/people/kovchegov.1'> Yuri Kovchegov</a>. On this site, you can see my published papers, research projects, and teaching experience.
+<a href='https://physics.osu.edu/people/kovchegov.1'> Yuri Kovchegov</a>. On this site, you can see my research works, cv, and a blog called Small-\(x\) Coffee Hour, where I discuss recent papers in my field.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
