@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Introduction to Small-\(x\) Physics
-date: 2023-04-25 2:00:00-0400
+date: 2023-09-06 2:00:00-0400
 description: An informal introduction to the physics of small \(x\)
 tags: introduction
 categories: 
 giscus_comments: true
 related_posts: true
+featured: true
 toc:
   sidebar: left
 ---
