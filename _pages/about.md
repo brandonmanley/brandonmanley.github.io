@@ -28,5 +28,5 @@ Hi, I’m Brandon Manley, and I'm a theoretical physicist. I smash subatomic par
     </div>
 </div>
 
-My research currently involves the nucleon spin puzzle (how does the proton get its spin from all its quarks and gluons that make it up?) and helicity evolution (how do spin-dependent observables behave at large energy scales?). My research will help us understand what we should see from the <a href='https://www.bnl.gov/eic/'> Electron Ion Collider </a>. My past research interests include dark matter production at the Large Hadron Collider (with the 
+My research is currently centered around the proton spin puzzle. I am mainly interested in the small Bjorken \(x\,\) behavior of the helicity parton distribution functions and the orbital angular momentum distributions. My research will help us understand what we should see from the <a href='https://www.bnl.gov/eic/'> Electron Ion Collider </a>. My past research interests include dark matter production at the Large Hadron Collider (with the 
 <a href='https://u.osu.edu/milliqan/'> MilliQan collaboration</a>), and <a href='https://home.cern/science/experiments/cms'> CMS</a> detector design.
