@@ -24,7 +24,7 @@ Hi, I’m Brandon Manley, and I'm a PhD student in theoretical physics at Ohio S
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-      {% include figure.html path="assets/img/ES_Fig1.pdf" class="img-fluid rounded z-depth-1" zoomable=true %}
+      {% include figure.html path="assets/img/ES_Fig1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
