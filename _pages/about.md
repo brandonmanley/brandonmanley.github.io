@@ -19,14 +19,20 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi, I’m Brandon Manley, and I'm a theoretical physicist. I smash subatomic particles together on paper. I'm a PhD student and I currently work with 
+Hi, I’m Brandon Manley, and I'm a PhD student in theoretical physics at Ohio State University. I currently work with 
 <a href='https://physics.osu.edu/people/kovchegov.1'> Yuri Kovchegov</a>. On this site, you can see my research works and cv.
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/spin_puzzle.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.html path="assets/img/ES_Fig1.pdf" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
 </div>
 
 My research is currently centered around the proton spin puzzle. I am mainly interested in the small Bjorken \(x\,\) behavior of the helicity parton distribution functions and the orbital angular momentum distributions. My research will help us understand what we should see from the <a href='https://www.bnl.gov/eic/'> Electron Ion Collider </a>. My past research interests include dark matter production at the Large Hadron Collider (with the 
 <a href='https://u.osu.edu/milliqan/'> MilliQan collaboration</a>), and <a href='https://home.cern/science/experiments/cms'> CMS</a> detector design.
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+      <img src="assets/img/eikonal_quark.gif" class="img-fluid rounded z-depth-1" alt="Research Animation" />
+  </div>
+</div>
