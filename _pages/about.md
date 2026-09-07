@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD student at Ohio State University</a>
+subtitle: <a href='#'>Postdoc at the University of Connecticut</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Physics Research Building, M2041</p>
-    <p>191 West Woodruff Ave</p>
-    <p>Columbus, OH 43210</p>
+    <p>Gant South</p>
+    <p>196 Auditorium Road, U-3046</p>
+    <p>Storrs, CT 06269</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -19,8 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi, I’m Brandon Manley, and I'm a PhD student in theoretical nuclear physics at Ohio State University. I currently work with
-<a href='https://physics.osu.edu/people/kovchegov.1'> Yuri Kovchegov</a>. On this site, you can see my research works and cv.
+Hi, I’m Brandon Manley, and I'm a postdoc in theoretical nuclear physics at the University of Connecticut. I currently work with
+<a href='https://physics.uconn.edu/person/shohini-bhattacharya/'> Shohini Bhattacharya</a>. I received my PhD from The Ohio State University under the guidance of Yuri Kovchegov. On this site, you can see my research works and cv.
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
