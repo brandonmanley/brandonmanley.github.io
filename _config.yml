@@ -6,9 +6,9 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Brandon
 middle_name: 
 last_name: Manley
-email: manley.329@osu.edu
+email: brandon.manley@uconn.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD student at Ohio State University
+  Postdoc at The University of Connecticut
 footer_text: >
   (<a href="https://github.com/alshedivat/al-folio">al-folio</a> theme)
 keywords:   # add your own keywords or leave empty
@@ -87,7 +87,7 @@ osf_id: # your OSF ID
 research_gate_profile: # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
-work_url: https://physics.osu.edu/people/manley.329 # work page URL
+work_url: https://physics.uconn.edu/person/brandon-manley/ # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
